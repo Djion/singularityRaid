@@ -108,18 +108,18 @@ Sloshing Core of Hatred Titanforged GP:428
 Celestially Aligned Hood GP:194
 Celestially Aligned Hood Warforged GP:214
 Celestially Aligned Hood Titanforged GP:234
-Otherworldly Leahter Mantle GP:145
-Otherworldly Leahter Mantle Warforged GP:165
-Otherworldly Leahter Mantle Titanforged GP:185
+Otherworldly Leather Mantle GP:145
+Otherworldly Leather Mantle Warforged GP:165
+Otherworldly Leather Mantle Titanforged GP:185
 Pauldrons of Shifting Runes GP:145
 Pauldrons of Shifting Runes Warforged GP:165
 Pauldrons of Shifting Runes Titanforged GP:185
 Cinch of Cosmic insignificance GP:97
 Cinch of Cosmic insignificance Warforged GP:117
 Cinch of Cosmic insignificance Titanforged GP:137
-Dreamscuptor's gloves GP:145
-Dreamscuptor's gloves Warforged GP:165
-Dreamscuptor's gloves Titanforged GP:185
+Dreamsculptor's gloves GP:145
+Dreamsculptor's gloves Warforged GP:165
+Dreamsculptor's gloves Titanforged GP:185
 Gauntlets of Malevolent Intent GP:145
 Gauntlets of Malevolent Intent Warforged GP:165
 Gauntlets of Malevolent Intent Titanforged GP:185

@@ -77,9 +77,9 @@ def calcGP(itemName,itemLVL, itemSlot, tier):
 
 def main():
 	with open('itemGP.txt','a') as myfile:
-		myfile.write('--------------------------\n')
+		myfile.write('-------------------------------------------\n')
 		myfile.write('EMERALD NIGHTMARE\n')
-		myfile.write('--------------------------\n')
+		myfile.write('-------------------------------------------\n')
 		myfile.write('Nythendra \n')
 		myfile.write('--------------------------\n')
 	calcGP('Despoiled Dragonscale',865,'relic','n')
@@ -125,10 +125,10 @@ def main():
 	calcGP('Radiating Metallic Shard',865,'relic','n')
 	calcGP('Sloshing Core of Hatred',865,'relic','n')
 	calcGP('Celestially Aligned Hood',865,'head','n')
-	calcGP('Otherworldly Leahter Mantle',865,'shoulders','n')
+	calcGP('Otherworldly Leather Mantle',865,'shoulders','n')
 	calcGP('Pauldrons of Shifting Runes',865,'shoulders','n')
 	calcGP('Cinch of Cosmic insignificance',865,'wrist','n')
-	calcGP('Dreamscuptor\'s gloves',865,'hands','n')
+	calcGP('Dreamsculptor\'s gloves',865,'hands','n')
 	calcGP('Gauntlets of Malevolent Intent',865,'hands','n')
 	calcGP('Waistplate of Nameless Horror',865,'waist','n')
 	calcGP('Singular Chain Leggings',865,'legs','n')
