@@ -59,20 +59,32 @@ def calcGP(itemName,itemLVL, itemSlot, tier):
 		elif itemSlot == 'ring':
 			weight = 0.5
 		elif itemSlot == 'trinket':
-			weight = 1
+			weight = 1.75
 
 
 	gp = 0.483 * 2**(itemLVL/100) * weight
 	gp = int(gp)
 	warforgedGP = gp + 20
+	sockGP = gp + 30
 	titanforgedGP = gp + 40
+	warSockGP = gp + 45
+	titanSockGP = gp + 55
+
 	gpWrite = itemName + ' GP:' + str(gp) + '\n'
 	gpWarWrite = itemName + ' Warforged GP:' + str(warforgedGP) + '\n'
+	gpSockWrite = itemName + ' Socketed GP:' + str(sockGP) + '\n'
+	gpWarSockWrite = itemName + ' Warforged Socketed GP:' + str(warSockGP) + '\n'
 	gpTitanWrite = itemName + ' Titanforged GP:' + str(titanforgedGP) + '\n'
+	gpTitanSockWrite = itemName + ' Titanforged Socketed GP:' + str(titanSockGP) + '\n'
 	with open('itemGP.txt', 'a') as myfile:
 		myfile.write(gpWrite)
 		myfile.write(gpWarWrite)
+		myfile.write(gpSockWrite)
+		myfile.write(gpWarSockWrite)
 		myfile.write(gpTitanWrite)
+		myfile.write(gpTitanSockWrite)
+		myfile.write('\n')
+
 
 
 def main():

@@ -1,338 +1,758 @@
---------------------------
+-------------------------------------------
 EMERALD NIGHTMARE
---------------------------
+-------------------------------------------
 Nythendra 
 --------------------------
 Despoiled Dragonscale GP:388
 Despoiled Dragonscale Warforged GP:408
+Despoiled Dragonscale Socketed GP:418
+Despoiled Dragonscale Warforged Socketed GP:433
 Despoiled Dragonscale Titanforged GP:428
+Despoiled Dragonscale Titanforged Socketed GP:443
+
 Preserved Worldseed GP:388
 Preserved Worldseed Warforged GP:408
+Preserved Worldseed Socketed GP:418
+Preserved Worldseed Warforged Socketed GP:433
 Preserved Worldseed Titanforged GP:428
+Preserved Worldseed Titanforged Socketed GP:443
+
 Shaladrassil's Blossom GP:388
 Shaladrassil's Blossom Warforged GP:408
+Shaladrassil's Blossom Socketed GP:418
+Shaladrassil's Blossom Warforged Socketed GP:433
 Shaladrassil's Blossom Titanforged GP:428
+Shaladrassil's Blossom Titanforged Socketed GP:443
+
 Unwaking Slumber GP:388
 Unwaking Slumber Warforged GP:408
+Unwaking Slumber Socketed GP:418
+Unwaking Slumber Warforged Socketed GP:433
 Unwaking Slumber Titanforged GP:428
+Unwaking Slumber Titanforged Socketed GP:443
+
 Greyed Dragonscale Coif GP:194
 Greyed Dragonscale Coif Warforged GP:214
+Greyed Dragonscale Coif Socketed GP:224
+Greyed Dragonscale Coif Warforged Socketed GP:239
 Greyed Dragonscale Coif Titanforged GP:234
+Greyed Dragonscale Coif Titanforged Socketed GP:249
+
 Ancient Dreamwoven Manle GP:145
 Ancient Dreamwoven Manle Warforged GP:165
+Ancient Dreamwoven Manle Socketed GP:175
+Ancient Dreamwoven Manle Warforged Socketed GP:190
 Ancient Dreamwoven Manle Titanforged GP:185
+Ancient Dreamwoven Manle Titanforged Socketed GP:200
+
 Insect-Etched Chestplate GP:194
 Insect-Etched Chestplate Warforged GP:214
+Insect-Etched Chestplate Socketed GP:224
+Insect-Etched Chestplate Warforged Socketed GP:239
 Insect-Etched Chestplate Titanforged GP:234
+Insect-Etched Chestplate Titanforged Socketed GP:249
+
 Wristclamps of Mad Dreams GP:97
 Wristclamps of Mad Dreams Warforged GP:117
+Wristclamps of Mad Dreams Socketed GP:127
+Wristclamps of Mad Dreams Warforged Socketed GP:142
 Wristclamps of Mad Dreams Titanforged GP:137
+Wristclamps of Mad Dreams Titanforged Socketed GP:152
+
 Creeping String of Larva GP:145
 Creeping String of Larva Warforged GP:165
+Creeping String of Larva Socketed GP:175
+Creeping String of Larva Warforged Socketed GP:190
 Creeping String of Larva Titanforged GP:185
+Creeping String of Larva Titanforged Socketed GP:200
+
 Lifeless Buckled Girdle GP:145
 Lifeless Buckled Girdle Warforged GP:165
+Lifeless Buckled Girdle Socketed GP:175
+Lifeless Buckled Girdle Warforged Socketed GP:190
 Lifeless Buckled Girdle Titanforged GP:185
+Lifeless Buckled Girdle Titanforged Socketed GP:200
+
 Stained Maggot Squishers GP:145
 Stained Maggot Squishers Warforged GP:165
+Stained Maggot Squishers Socketed GP:175
+Stained Maggot Squishers Warforged Socketed GP:190
 Stained Maggot Squishers Titanforged GP:185
+Stained Maggot Squishers Titanforged Socketed GP:200
+
 Grubby Silver Ring GP:97
 Grubby Silver Ring Warforged GP:117
+Grubby Silver Ring Socketed GP:127
+Grubby Silver Ring Warforged Socketed GP:142
 Grubby Silver Ring Titanforged GP:137
-Ravaged Seed Pod GP:194
-Ravaged Seed Pod Warforged GP:214
-Ravaged Seed Pod Titanforged GP:234
-Swarming Plaguehive GP:194
-Swarming Plaguehive Warforged GP:214
-Swarming Plaguehive Titanforged GP:234
+Grubby Silver Ring Titanforged Socketed GP:152
+
+Ravaged Seed Pod GP:339
+Ravaged Seed Pod Warforged GP:359
+Ravaged Seed Pod Socketed GP:369
+Ravaged Seed Pod Warforged Socketed GP:384
+Ravaged Seed Pod Titanforged GP:379
+Ravaged Seed Pod Titanforged Socketed GP:394
+
+Swarming Plaguehive GP:339
+Swarming Plaguehive Warforged GP:359
+Swarming Plaguehive Socketed GP:369
+Swarming Plaguehive Warforged Socketed GP:384
+Swarming Plaguehive Titanforged GP:379
+Swarming Plaguehive Titanforged Socketed GP:394
+
 --------------------------
 Elerethe Renferal
 --------------------------
 Fel-bloated Venom Sac GP:388
 Fel-bloated Venom Sac Warforged GP:408
+Fel-bloated Venom Sac Socketed GP:418
+Fel-bloated Venom Sac Warforged Socketed GP:433
 Fel-bloated Venom Sac Titanforged GP:428
+Fel-bloated Venom Sac Titanforged Socketed GP:443
+
 Scything Quill GP:388
 Scything Quill Warforged GP:408
+Scything Quill Socketed GP:418
+Scything Quill Warforged Socketed GP:433
 Scything Quill Titanforged GP:428
+Scything Quill Titanforged Socketed GP:443
+
 Shrieking Bloodstone GP:388
 Shrieking Bloodstone Warforged GP:408
+Shrieking Bloodstone Socketed GP:418
+Shrieking Bloodstone Warforged Socketed GP:433
 Shrieking Bloodstone Titanforged GP:428
+Shrieking Bloodstone Titanforged Socketed GP:443
+
 Mask of Multitudinous Eyes GP:194
 Mask of Multitudinous Eyes Warforged GP:214
+Mask of Multitudinous Eyes Socketed GP:224
+Mask of Multitudinous Eyes Warforged Socketed GP:239
 Mask of Multitudinous Eyes Titanforged GP:234
+Mask of Multitudinous Eyes Titanforged Socketed GP:249
+
 Venom-Fanged Barbute GP:194
 Venom-Fanged Barbute Warforged GP:214
+Venom-Fanged Barbute Socketed GP:224
+Venom-Fanged Barbute Warforged Socketed GP:239
 Venom-Fanged Barbute Titanforged GP:234
+Venom-Fanged Barbute Titanforged Socketed GP:249
+
 Gossamer-Spun Greatcloak GP:97
 Gossamer-Spun Greatcloak Warforged GP:117
+Gossamer-Spun Greatcloak Socketed GP:127
+Gossamer-Spun Greatcloak Warforged Socketed GP:142
 Gossamer-Spun Greatcloak Titanforged GP:137
+Gossamer-Spun Greatcloak Titanforged Socketed GP:152
+
 Patient Ambusher's Hauberk GP:194
 Patient Ambusher's Hauberk Warforged GP:214
+Patient Ambusher's Hauberk Socketed GP:224
+Patient Ambusher's Hauberk Warforged Socketed GP:239
 Patient Ambusher's Hauberk Titanforged GP:234
+Patient Ambusher's Hauberk Titanforged Socketed GP:249
+
 Wristwraps of Broken Trust GP:97
 Wristwraps of Broken Trust Warforged GP:117
+Wristwraps of Broken Trust Socketed GP:127
+Wristwraps of Broken Trust Warforged Socketed GP:142
 Wristwraps of Broken Trust Titanforged GP:137
+Wristwraps of Broken Trust Titanforged Socketed GP:152
+
 Pliable Spider Sil Cinch GP:145
 Pliable Spider Sil Cinch Warforged GP:165
+Pliable Spider Sil Cinch Socketed GP:175
+Pliable Spider Sil Cinch Warforged Socketed GP:190
 Pliable Spider Sil Cinch Titanforged GP:185
+Pliable Spider Sil Cinch Titanforged Socketed GP:200
+
 Ragged Horroweave Legplates GP:194
 Ragged Horroweave Legplates Warforged GP:214
+Ragged Horroweave Legplates Socketed GP:224
+Ragged Horroweave Legplates Warforged Socketed GP:239
 Ragged Horroweave Legplates Titanforged GP:234
+Ragged Horroweave Legplates Titanforged Socketed GP:249
+
 Storm-Battered Legplates GP:194
 Storm-Battered Legplates Warforged GP:214
+Storm-Battered Legplates Socketed GP:224
+Storm-Battered Legplates Warforged Socketed GP:239
 Storm-Battered Legplates Titanforged GP:234
+Storm-Battered Legplates Titanforged Socketed GP:249
+
 Black Venom Sabatons GP:145
 Black Venom Sabatons Warforged GP:165
+Black Venom Sabatons Socketed GP:175
+Black Venom Sabatons Warforged Socketed GP:190
 Black Venom Sabatons Titanforged GP:185
-Cocoon of Enforced Solitude GP:194
-Cocoon of Enforced Solitude Warforged GP:214
-Cocoon of Enforced Solitude Titanforged GP:234
-Twisiting Wind GP:194
-Twisiting Wind Warforged GP:214
-Twisiting Wind Titanforged GP:234
+Black Venom Sabatons Titanforged Socketed GP:200
+
+Cocoon of Enforced Solitude GP:339
+Cocoon of Enforced Solitude Warforged GP:359
+Cocoon of Enforced Solitude Socketed GP:369
+Cocoon of Enforced Solitude Warforged Socketed GP:384
+Cocoon of Enforced Solitude Titanforged GP:379
+Cocoon of Enforced Solitude Titanforged Socketed GP:394
+
+Twisiting Wind GP:339
+Twisiting Wind Warforged GP:359
+Twisiting Wind Socketed GP:369
+Twisiting Wind Warforged Socketed GP:384
+Twisiting Wind Titanforged GP:379
+Twisiting Wind Titanforged Socketed GP:394
+
 --------------------------
 Il'gynoth, Heart of Corruption
 --------------------------
 Cube of Malice GP:388
 Cube of Malice Warforged GP:408
+Cube of Malice Socketed GP:418
+Cube of Malice Warforged Socketed GP:433
 Cube of Malice Titanforged GP:428
+Cube of Malice Titanforged Socketed GP:443
+
 Gore-Drenched Fetish GP:388
 Gore-Drenched Fetish Warforged GP:408
+Gore-Drenched Fetish Socketed GP:418
+Gore-Drenched Fetish Warforged Socketed GP:433
 Gore-Drenched Fetish Titanforged GP:428
+Gore-Drenched Fetish Titanforged Socketed GP:443
+
 Radiating Metallic Shard GP:388
 Radiating Metallic Shard Warforged GP:408
+Radiating Metallic Shard Socketed GP:418
+Radiating Metallic Shard Warforged Socketed GP:433
 Radiating Metallic Shard Titanforged GP:428
+Radiating Metallic Shard Titanforged Socketed GP:443
+
 Sloshing Core of Hatred GP:388
 Sloshing Core of Hatred Warforged GP:408
+Sloshing Core of Hatred Socketed GP:418
+Sloshing Core of Hatred Warforged Socketed GP:433
 Sloshing Core of Hatred Titanforged GP:428
+Sloshing Core of Hatred Titanforged Socketed GP:443
+
 Celestially Aligned Hood GP:194
 Celestially Aligned Hood Warforged GP:214
+Celestially Aligned Hood Socketed GP:224
+Celestially Aligned Hood Warforged Socketed GP:239
 Celestially Aligned Hood Titanforged GP:234
+Celestially Aligned Hood Titanforged Socketed GP:249
+
 Otherworldly Leather Mantle GP:145
 Otherworldly Leather Mantle Warforged GP:165
+Otherworldly Leather Mantle Socketed GP:175
+Otherworldly Leather Mantle Warforged Socketed GP:190
 Otherworldly Leather Mantle Titanforged GP:185
+Otherworldly Leather Mantle Titanforged Socketed GP:200
+
 Pauldrons of Shifting Runes GP:145
 Pauldrons of Shifting Runes Warforged GP:165
+Pauldrons of Shifting Runes Socketed GP:175
+Pauldrons of Shifting Runes Warforged Socketed GP:190
 Pauldrons of Shifting Runes Titanforged GP:185
+Pauldrons of Shifting Runes Titanforged Socketed GP:200
+
 Cinch of Cosmic insignificance GP:97
 Cinch of Cosmic insignificance Warforged GP:117
+Cinch of Cosmic insignificance Socketed GP:127
+Cinch of Cosmic insignificance Warforged Socketed GP:142
 Cinch of Cosmic insignificance Titanforged GP:137
+Cinch of Cosmic insignificance Titanforged Socketed GP:152
+
 Dreamsculptor's gloves GP:145
 Dreamsculptor's gloves Warforged GP:165
+Dreamsculptor's gloves Socketed GP:175
+Dreamsculptor's gloves Warforged Socketed GP:190
 Dreamsculptor's gloves Titanforged GP:185
+Dreamsculptor's gloves Titanforged Socketed GP:200
+
 Gauntlets of Malevolent Intent GP:145
 Gauntlets of Malevolent Intent Warforged GP:165
+Gauntlets of Malevolent Intent Socketed GP:175
+Gauntlets of Malevolent Intent Warforged Socketed GP:190
 Gauntlets of Malevolent Intent Titanforged GP:185
+Gauntlets of Malevolent Intent Titanforged Socketed GP:200
+
 Waistplate of Nameless Horror GP:145
 Waistplate of Nameless Horror Warforged GP:165
+Waistplate of Nameless Horror Socketed GP:175
+Waistplate of Nameless Horror Warforged Socketed GP:190
 Waistplate of Nameless Horror Titanforged GP:185
+Waistplate of Nameless Horror Titanforged Socketed GP:200
+
 Singular Chain Leggings GP:194
 Singular Chain Leggings Warforged GP:214
+Singular Chain Leggings Socketed GP:224
+Singular Chain Leggings Warforged Socketed GP:239
 Singular Chain Leggings Titanforged GP:234
+Singular Chain Leggings Titanforged Socketed GP:249
+
 Dreadful Cyclopean Signet GP:97
 Dreadful Cyclopean Signet Warforged GP:117
+Dreadful Cyclopean Signet Socketed GP:127
+Dreadful Cyclopean Signet Warforged Socketed GP:142
 Dreadful Cyclopean Signet Titanforged GP:137
-Goblet of Nightmarish Ichor GP:194
-Goblet of Nightmarish Ichor Warforged GP:214
-Goblet of Nightmarish Ichor Titanforged GP:234
-Spontaneous Appendages GP:194
-Spontaneous Appendages Warforged GP:214
-Spontaneous Appendages Titanforged GP:234
-Wriggling Sinew GP:194
-Wriggling Sinew Warforged GP:214
-Wriggling Sinew Titanforged GP:234
+Dreadful Cyclopean Signet Titanforged Socketed GP:152
+
+Goblet of Nightmarish Ichor GP:339
+Goblet of Nightmarish Ichor Warforged GP:359
+Goblet of Nightmarish Ichor Socketed GP:369
+Goblet of Nightmarish Ichor Warforged Socketed GP:384
+Goblet of Nightmarish Ichor Titanforged GP:379
+Goblet of Nightmarish Ichor Titanforged Socketed GP:394
+
+Spontaneous Appendages GP:339
+Spontaneous Appendages Warforged GP:359
+Spontaneous Appendages Socketed GP:369
+Spontaneous Appendages Warforged Socketed GP:384
+Spontaneous Appendages Titanforged GP:379
+Spontaneous Appendages Titanforged Socketed GP:394
+
+Wriggling Sinew GP:339
+Wriggling Sinew Warforged GP:359
+Wriggling Sinew Socketed GP:369
+Wriggling Sinew Warforged Socketed GP:384
+Wriggling Sinew Titanforged GP:379
+Wriggling Sinew Titanforged Socketed GP:394
+
 --------------------------
 Ursoc
 --------------------------
 Bloodied Bear Fang GP:388
 Bloodied Bear Fang Warforged GP:408
+Bloodied Bear Fang Socketed GP:418
+Bloodied Bear Fang Warforged Socketed GP:433
 Bloodied Bear Fang Titanforged GP:428
+Bloodied Bear Fang Titanforged Socketed GP:443
+
 Reverberating Femur GP:388
 Reverberating Femur Warforged GP:408
+Reverberating Femur Socketed GP:418
+Reverberating Femur Warforged Socketed GP:433
 Reverberating Femur Titanforged GP:428
+Reverberating Femur Titanforged Socketed GP:443
+
 Tuft of Ironfur GP:388
 Tuft of Ironfur Warforged GP:408
+Tuft of Ironfur Socketed GP:418
+Tuft of Ironfur Warforged Socketed GP:433
 Tuft of Ironfur Titanforged GP:428
+Tuft of Ironfur Titanforged Socketed GP:443
+
 Cursed Beartooth Necklace GP:97
 Cursed Beartooth Necklace Warforged GP:117
+Cursed Beartooth Necklace Socketed GP:127
+Cursed Beartooth Necklace Warforged Socketed GP:142
 Cursed Beartooth Necklace Titanforged GP:137
+Cursed Beartooth Necklace Titanforged Socketed GP:152
+
 Matted Fur Pauldrons GP:145
 Matted Fur Pauldrons Warforged GP:165
+Matted Fur Pauldrons Socketed GP:175
+Matted Fur Pauldrons Warforged Socketed GP:190
 Matted Fur Pauldrons Titanforged GP:185
+Matted Fur Pauldrons Titanforged Socketed GP:200
+
 Scarred Ragefang Chestpiece GP:194
 Scarred Ragefang Chestpiece Warforged GP:214
+Scarred Ragefang Chestpiece Socketed GP:224
+Scarred Ragefang Chestpiece Warforged Socketed GP:239
 Scarred Ragefang Chestpiece Titanforged GP:234
+Scarred Ragefang Chestpiece Titanforged Socketed GP:249
+
 Ragged Fur Wristwraps GP:97
 Ragged Fur Wristwraps Warforged GP:117
+Ragged Fur Wristwraps Socketed GP:127
+Ragged Fur Wristwraps Warforged Socketed GP:142
 Ragged Fur Wristwraps Titanforged GP:137
+Ragged Fur Wristwraps Titanforged Socketed GP:152
+
 Scored Ironclaw Sabatons GP:97
 Scored Ironclaw Sabatons Warforged GP:117
+Scored Ironclaw Sabatons Socketed GP:127
+Scored Ironclaw Sabatons Warforged Socketed GP:142
 Scored Ironclaw Sabatons Titanforged GP:137
+Scored Ironclaw Sabatons Titanforged Socketed GP:152
+
 Primal Gauntlets of Rage GP:145
 Primal Gauntlets of Rage Warforged GP:165
+Primal Gauntlets of Rage Socketed GP:175
+Primal Gauntlets of Rage Warforged Socketed GP:190
 Primal Gauntlets of Rage Titanforged GP:185
+Primal Gauntlets of Rage Titanforged Socketed GP:200
+
 Splotched Bloodfur Leggings GP:194
 Splotched Bloodfur Leggings Warforged GP:214
+Splotched Bloodfur Leggings Socketed GP:224
+Splotched Bloodfur Leggings Warforged Socketed GP:239
 Splotched Bloodfur Leggings Titanforged GP:234
+Splotched Bloodfur Leggings Titanforged Socketed GP:249
+
 Crimson Wool-Lined Slippers GP:145
 Crimson Wool-Lined Slippers Warforged GP:165
+Crimson Wool-Lined Slippers Socketed GP:175
+Crimson Wool-Lined Slippers Warforged Socketed GP:190
 Crimson Wool-Lined Slippers Titanforged GP:185
+Crimson Wool-Lined Slippers Titanforged Socketed GP:200
+
 Trampling Warboots GP:145
 Trampling Warboots Warforged GP:165
+Trampling Warboots Socketed GP:175
+Trampling Warboots Warforged Socketed GP:190
 Trampling Warboots Titanforged GP:185
-Blodthirsty Instinct GP:194
-Blodthirsty Instinct Warforged GP:214
-Blodthirsty Instinct Titanforged GP:234
-Heightened Senses GP:194
-Heightened Senses Warforged GP:214
-Heightened Senses Titanforged GP:234
-Unbridled Fury GP:194
-Unbridled Fury Warforged GP:214
-Unbridled Fury Titanforged GP:234
-Ursoc's Rending Paw GP:194
-Ursoc's Rending Paw Warforged GP:214
-Ursoc's Rending Paw Titanforged GP:234
+Trampling Warboots Titanforged Socketed GP:200
+
+Blodthirsty Instinct GP:339
+Blodthirsty Instinct Warforged GP:359
+Blodthirsty Instinct Socketed GP:369
+Blodthirsty Instinct Warforged Socketed GP:384
+Blodthirsty Instinct Titanforged GP:379
+Blodthirsty Instinct Titanforged Socketed GP:394
+
+Heightened Senses GP:339
+Heightened Senses Warforged GP:359
+Heightened Senses Socketed GP:369
+Heightened Senses Warforged Socketed GP:384
+Heightened Senses Titanforged GP:379
+Heightened Senses Titanforged Socketed GP:394
+
+Unbridled Fury GP:339
+Unbridled Fury Warforged GP:359
+Unbridled Fury Socketed GP:369
+Unbridled Fury Warforged Socketed GP:384
+Unbridled Fury Titanforged GP:379
+Unbridled Fury Titanforged Socketed GP:394
+
+Ursoc's Rending Paw GP:339
+Ursoc's Rending Paw Warforged GP:359
+Ursoc's Rending Paw Socketed GP:369
+Ursoc's Rending Paw Warforged Socketed GP:384
+Ursoc's Rending Paw Titanforged GP:379
+Ursoc's Rending Paw Titanforged Socketed GP:394
+
 --------------------------
 Dragons of Nightmare
 --------------------------
 Bioluminescent Mushroom GP:388
 Bioluminescent Mushroom Warforged GP:408
+Bioluminescent Mushroom Socketed GP:418
+Bioluminescent Mushroom Warforged Socketed GP:433
 Bioluminescent Mushroom Titanforged GP:428
+Bioluminescent Mushroom Titanforged Socketed GP:443
+
 Entrancing Stone GP:388
 Entrancing Stone Warforged GP:408
+Entrancing Stone Socketed GP:418
+Entrancing Stone Warforged Socketed GP:433
 Entrancing Stone Titanforged GP:428
+Entrancing Stone Titanforged Socketed GP:443
+
 Nightmare Engulfed Jewel GP:388
 Nightmare Engulfed Jewel Warforged GP:408
+Nightmare Engulfed Jewel Socketed GP:418
+Nightmare Engulfed Jewel Warforged Socketed GP:433
 Nightmare Engulfed Jewel Titanforged GP:428
+Nightmare Engulfed Jewel Titanforged Socketed GP:443
+
 Cowl of Fright GP:194
 Cowl of Fright Warforged GP:214
+Cowl of Fright Socketed GP:224
+Cowl of Fright Warforged Socketed GP:239
 Cowl of Fright Titanforged GP:234
+Cowl of Fright Titanforged Socketed GP:249
+
 Dreamscale Inlaid Vestments GP:194
 Dreamscale Inlaid Vestments Warforged GP:214
+Dreamscale Inlaid Vestments Socketed GP:224
+Dreamscale Inlaid Vestments Warforged Socketed GP:239
 Dreamscale Inlaid Vestments Titanforged GP:234
+Dreamscale Inlaid Vestments Titanforged Socketed GP:249
+
 Horror Inscribed Chestguard GP:194
 Horror Inscribed Chestguard Warforged GP:214
+Horror Inscribed Chestguard Socketed GP:224
+Horror Inscribed Chestguard Warforged Socketed GP:239
 Horror Inscribed Chestguard Titanforged GP:234
+Horror Inscribed Chestguard Titanforged Socketed GP:249
+
 Dragonbone Wristclamps GP:97
 Dragonbone Wristclamps Warforged GP:117
+Dragonbone Wristclamps Socketed GP:127
+Dragonbone Wristclamps Warforged Socketed GP:142
 Dragonbone Wristclamps Titanforged GP:137
+Dragonbone Wristclamps Titanforged Socketed GP:152
+
 Dragonspur Wristguards GP:97
 Dragonspur Wristguards Warforged GP:117
+Dragonspur Wristguards Socketed GP:127
+Dragonspur Wristguards Warforged Socketed GP:142
 Dragonspur Wristguards Titanforged GP:137
+Dragonspur Wristguards Titanforged Socketed GP:152
+
 Gauntlets of the Demented Mind GP:145
 Gauntlets of the Demented Mind Warforged GP:165
+Gauntlets of the Demented Mind Socketed GP:175
+Gauntlets of the Demented Mind Warforged Socketed GP:190
 Gauntlets of the Demented Mind Titanforged GP:185
+Gauntlets of the Demented Mind Titanforged Socketed GP:200
+
 Handwraps of Delusional Power GP:145
 Handwraps of Delusional Power Warforged GP:165
+Handwraps of Delusional Power Socketed GP:175
+Handwraps of Delusional Power Warforged Socketed GP:190
 Handwraps of Delusional Power Titanforged GP:185
+Handwraps of Delusional Power Titanforged Socketed GP:200
+
 Malignant Sabatons GP:145
 Malignant Sabatons Warforged GP:165
+Malignant Sabatons Socketed GP:175
+Malignant Sabatons Warforged Socketed GP:190
 Malignant Sabatons Titanforged GP:185
+Malignant Sabatons Titanforged Socketed GP:200
+
 Mindrend Band GP:97
 Mindrend Band Warforged GP:117
+Mindrend Band Socketed GP:127
+Mindrend Band Warforged Socketed GP:142
 Mindrend Band Titanforged GP:137
-Phantasmal Echo GP:194
-Phantasmal Echo Warforged GP:214
-Phantasmal Echo Titanforged GP:234
-Unstable Horrorslime GP:194
-Unstable Horrorslime Warforged GP:214
-Unstable Horrorslime Titanforged GP:234
-Vial of Nightmare Fog GP:194
-Vial of Nightmare Fog Warforged GP:214
-Vial of Nightmare Fog Titanforged GP:234
+Mindrend Band Titanforged Socketed GP:152
+
+Phantasmal Echo GP:339
+Phantasmal Echo Warforged GP:359
+Phantasmal Echo Socketed GP:369
+Phantasmal Echo Warforged Socketed GP:384
+Phantasmal Echo Titanforged GP:379
+Phantasmal Echo Titanforged Socketed GP:394
+
+Unstable Horrorslime GP:339
+Unstable Horrorslime Warforged GP:359
+Unstable Horrorslime Socketed GP:369
+Unstable Horrorslime Warforged Socketed GP:384
+Unstable Horrorslime Titanforged GP:379
+Unstable Horrorslime Titanforged Socketed GP:394
+
+Vial of Nightmare Fog GP:339
+Vial of Nightmare Fog Warforged GP:359
+Vial of Nightmare Fog Socketed GP:369
+Vial of Nightmare Fog Warforged Socketed GP:384
+Vial of Nightmare Fog Titanforged GP:379
+Vial of Nightmare Fog Titanforged Socketed GP:394
+
 --------------------------
 Cenarius
 --------------------------
 Blessing of Cenarius GP:388
 Blessing of Cenarius Warforged GP:408
+Blessing of Cenarius Socketed GP:418
+Blessing of Cenarius Warforged Socketed GP:433
 Blessing of Cenarius Titanforged GP:428
+Blessing of Cenarius Titanforged Socketed GP:443
+
 Radiant Dragon Egg GP:388
 Radiant Dragon Egg Warforged GP:408
+Radiant Dragon Egg Socketed GP:418
+Radiant Dragon Egg Warforged Socketed GP:433
 Radiant Dragon Egg Titanforged GP:428
+Radiant Dragon Egg Titanforged Socketed GP:443
+
 Uplifiting Emerald GP:388
 Uplifiting Emerald Warforged GP:408
+Uplifiting Emerald Socketed GP:418
+Uplifiting Emerald Warforged Socketed GP:433
 Uplifiting Emerald Titanforged GP:428
+Uplifiting Emerald Titanforged Socketed GP:443
+
 Crown of Steely Brambles GP:194
 Crown of Steely Brambles Warforged GP:214
+Crown of Steely Brambles Socketed GP:224
+Crown of Steely Brambles Warforged Socketed GP:239
 Crown of Steely Brambles Titanforged GP:234
+Crown of Steely Brambles Titanforged Socketed GP:249
+
 Mantle of Perpetual Bloom GP:145
 Mantle of Perpetual Bloom Warforged GP:165
+Mantle of Perpetual Bloom Socketed GP:175
+Mantle of Perpetual Bloom Warforged Socketed GP:190
 Mantle of Perpetual Bloom Titanforged GP:185
+Mantle of Perpetual Bloom Titanforged Socketed GP:200
+
 Throny Bramblemail Pauldrons GP:145
 Throny Bramblemail Pauldrons Warforged GP:165
+Throny Bramblemail Pauldrons Socketed GP:175
+Throny Bramblemail Pauldrons Warforged Socketed GP:190
 Throny Bramblemail Pauldrons Titanforged GP:185
+Throny Bramblemail Pauldrons Titanforged Socketed GP:200
+
 Evergreen Vinewrap Drape GP:97
 Evergreen Vinewrap Drape Warforged GP:117
+Evergreen Vinewrap Drape Socketed GP:127
+Evergreen Vinewrap Drape Warforged Socketed GP:142
 Evergreen Vinewrap Drape Titanforged GP:137
+Evergreen Vinewrap Drape Titanforged Socketed GP:152
+
 Tunic of the Grove keeper GP:194
 Tunic of the Grove keeper Warforged GP:214
+Tunic of the Grove keeper Socketed GP:224
+Tunic of the Grove keeper Warforged Socketed GP:239
 Tunic of the Grove keeper Titanforged GP:234
+Tunic of the Grove keeper Titanforged Socketed GP:249
+
 Fitted Ironbark Gauntlets GP:145
 Fitted Ironbark Gauntlets Warforged GP:165
+Fitted Ironbark Gauntlets Socketed GP:175
+Fitted Ironbark Gauntlets Warforged Socketed GP:190
 Fitted Ironbark Gauntlets Titanforged GP:185
+Fitted Ironbark Gauntlets Titanforged Socketed GP:200
+
 Forest-Lord's Waistwrap GP:145
 Forest-Lord's Waistwrap Warforged GP:165
+Forest-Lord's Waistwrap Socketed GP:175
+Forest-Lord's Waistwrap Warforged Socketed GP:190
 Forest-Lord's Waistwrap Titanforged GP:185
+Forest-Lord's Waistwrap Titanforged Socketed GP:200
+
 Laughing Sister's Pouch-chain GP:145
 Laughing Sister's Pouch-chain Warforged GP:165
+Laughing Sister's Pouch-chain Socketed GP:175
+Laughing Sister's Pouch-chain Warforged Socketed GP:190
 Laughing Sister's Pouch-chain Titanforged GP:185
+Laughing Sister's Pouch-chain Titanforged Socketed GP:200
+
 Cozy Dryad Hoof-Socks GP:145
 Cozy Dryad Hoof-Socks Warforged GP:165
+Cozy Dryad Hoof-Socks Socketed GP:175
+Cozy Dryad Hoof-Socks Warforged Socketed GP:190
 Cozy Dryad Hoof-Socks Titanforged GP:185
-Hord of Cenarius GP:194
-Hord of Cenarius Warforged GP:214
-Hord of Cenarius Titanforged GP:234
-Nature's Call GP:194
-Nature's Call Warforged GP:214
-Nature's Call Titanforged GP:234
+Cozy Dryad Hoof-Socks Titanforged Socketed GP:200
+
+Hord of Cenarius GP:339
+Hord of Cenarius Warforged GP:359
+Hord of Cenarius Socketed GP:369
+Hord of Cenarius Warforged Socketed GP:384
+Hord of Cenarius Titanforged GP:379
+Hord of Cenarius Titanforged Socketed GP:394
+
+Nature's Call GP:339
+Nature's Call Warforged GP:359
+Nature's Call Socketed GP:369
+Nature's Call Warforged Socketed GP:384
+Nature's Call Titanforged GP:379
+Nature's Call Titanforged Socketed GP:394
+
 --------------------------
 Xavius
 --------------------------
 Azsharan Councillor's Clasp GP:388
 Azsharan Councillor's Clasp Warforged GP:408
+Azsharan Councillor's Clasp Socketed GP:418
+Azsharan Councillor's Clasp Warforged Socketed GP:433
 Azsharan Councillor's Clasp Titanforged GP:428
+Azsharan Councillor's Clasp Titanforged Socketed GP:443
+
 Crystallized Drop of Eternity GP:388
 Crystallized Drop of Eternity Warforged GP:408
+Crystallized Drop of Eternity Socketed GP:418
+Crystallized Drop of Eternity Warforged Socketed GP:433
 Crystallized Drop of Eternity Titanforged GP:428
+Crystallized Drop of Eternity Titanforged Socketed GP:443
+
 Fragment of Eternal Spite GP:388
 Fragment of Eternal Spite Warforged GP:408
+Fragment of Eternal Spite Socketed GP:418
+Fragment of Eternal Spite Warforged Socketed GP:433
 Fragment of Eternal Spite Titanforged GP:428
+Fragment of Eternal Spite Titanforged Socketed GP:443
+
 Nightmarish Elm Branch GP:388
 Nightmarish Elm Branch Warforged GP:408
+Nightmarish Elm Branch Socketed GP:418
+Nightmarish Elm Branch Warforged Socketed GP:433
 Nightmarish Elm Branch Titanforged GP:428
+Nightmarish Elm Branch Titanforged Socketed GP:443
+
 Hood of Darkened Visions GP:194
 Hood of Darkened Visions Warforged GP:214
+Hood of Darkened Visions Socketed GP:224
+Hood of Darkened Visions Warforged Socketed GP:239
 Hood of Darkened Visions Titanforged GP:234
+Hood of Darkened Visions Titanforged Socketed GP:249
+
 Blackened Portalstone Necklace GP:97
 Blackened Portalstone Necklace Warforged GP:117
+Blackened Portalstone Necklace Socketed GP:127
+Blackened Portalstone Necklace Warforged Socketed GP:142
 Blackened Portalstone Necklace Titanforged GP:137
+Blackened Portalstone Necklace Titanforged Socketed GP:152
+
 Midnight Herald's Pauldrons GP:145
 Midnight Herald's Pauldrons Warforged GP:165
+Midnight Herald's Pauldrons Socketed GP:175
+Midnight Herald's Pauldrons Warforged Socketed GP:190
 Midnight Herald's Pauldrons Titanforged GP:185
+Midnight Herald's Pauldrons Titanforged Socketed GP:200
+
 Maddening Robe of Secrets GP:194
 Maddening Robe of Secrets Warforged GP:214
+Maddening Robe of Secrets Socketed GP:224
+Maddening Robe of Secrets Warforged Socketed GP:239
 Maddening Robe of Secrets Titanforged GP:234
+Maddening Robe of Secrets Titanforged Socketed GP:249
+
 Manacles of the Nightmare Colassus GP:97
 Manacles of the Nightmare Colassus Warforged GP:117
+Manacles of the Nightmare Colassus Socketed GP:127
+Manacles of the Nightmare Colassus Warforged Socketed GP:142
 Manacles of the Nightmare Colassus Titanforged GP:137
+Manacles of the Nightmare Colassus Titanforged Socketed GP:152
+
 Eon-Tempered Waistplate GP:145
 Eon-Tempered Waistplate Warforged GP:165
+Eon-Tempered Waistplate Socketed GP:175
+Eon-Tempered Waistplate Warforged Socketed GP:190
 Eon-Tempered Waistplate Titanforged GP:185
+Eon-Tempered Waistplate Titanforged Socketed GP:200
+
 Disjointed Linkage Leggings GP:194
 Disjointed Linkage Leggings Warforged GP:214
+Disjointed Linkage Leggings Socketed GP:224
+Disjointed Linkage Leggings Warforged Socketed GP:239
 Disjointed Linkage Leggings Titanforged GP:234
+Disjointed Linkage Leggings Titanforged Socketed GP:249
+
 Repulsive Leathery Pants GP:194
 Repulsive Leathery Pants Warforged GP:214
+Repulsive Leathery Pants Socketed GP:224
+Repulsive Leathery Pants Warforged Socketed GP:239
 Repulsive Leathery Pants Titanforged GP:234
+Repulsive Leathery Pants Titanforged Socketed GP:249
+
 Boots of Endless Betrayal GP:145
 Boots of Endless Betrayal Warforged GP:165
+Boots of Endless Betrayal Socketed GP:175
+Boots of Endless Betrayal Warforged Socketed GP:190
 Boots of Endless Betrayal Titanforged GP:185
+Boots of Endless Betrayal Titanforged Socketed GP:200
+
 Twice-Warped Azsharan Signet GP:97
 Twice-Warped Azsharan Signet Warforged GP:117
+Twice-Warped Azsharan Signet Socketed GP:127
+Twice-Warped Azsharan Signet Warforged Socketed GP:142
 Twice-Warped Azsharan Signet Titanforged GP:137
-Bough of Corruption GP:194
-Bough of Corruption Warforged GP:214
-Bough of Corruption Titanforged GP:234
-Grotesque Stattuette GP:194
-Grotesque Stattuette Warforged GP:214
-Grotesque Stattuette Titanforged GP:234
+Twice-Warped Azsharan Signet Titanforged Socketed GP:152
+
+Bough of Corruption GP:339
+Bough of Corruption Warforged GP:359
+Bough of Corruption Socketed GP:369
+Bough of Corruption Warforged Socketed GP:384
+Bough of Corruption Titanforged GP:379
+Bough of Corruption Titanforged Socketed GP:394
+
+Grotesque Stattuette GP:339
+Grotesque Stattuette Warforged GP:359
+Grotesque Stattuette Socketed GP:369
+Grotesque Stattuette Warforged Socketed GP:384
+Grotesque Stattuette Titanforged GP:379
+Grotesque Stattuette Titanforged Socketed GP:394
+
